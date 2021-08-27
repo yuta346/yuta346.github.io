@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.989da3ec.chunk.css",
+    "main.js": "/static/js/main.6be20dd5.chunk.js",
+    "main.js.map": "/static/js/main.6be20dd5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.6a5deff8.chunk.js": "/static/js/2.6a5deff8.chunk.js",
+    "static/js/2.6a5deff8.chunk.js.map": "/static/js/2.6a5deff8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.989da3ec.chunk.css.map": "/static/css/main.989da3ec.chunk.css.map",
+    "static/js/2.6a5deff8.chunk.js.LICENSE.txt": "/static/js/2.6a5deff8.chunk.js.LICENSE.txt",
+    "static/media/YutaHagiwara-img.7a3efc64.JPG": "/static/media/YutaHagiwara-img.7a3efc64.JPG",
+    "static/media/YutaHagiwara_Resume_Portfolio.e516b9cd.pdf": "/static/media/YutaHagiwara_Resume_Portfolio.e516b9cd.pdf",
+    "static/media/flashcard1.52dd5557.png": "/static/media/flashcard1.52dd5557.png",
+    "static/media/flashcard2.0c2c1ca2.png": "/static/media/flashcard2.0c2c1ca2.png",
+    "static/media/input-tool.b9bf55e8.png": "/static/media/input-tool.b9bf55e8.png",
+    "static/media/pokemon1.1aca6c4c.png": "/static/media/pokemon1.1aca6c4c.png",
+    "static/media/pokemon2.671000c1.png": "/static/media/pokemon2.671000c1.png",
+    "static/media/todo.401bc394.png": "/static/media/todo.401bc394.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/js/2.6a5deff8.chunk.js",
+    "static/css/main.989da3ec.chunk.css",
+    "static/js/main.6be20dd5.chunk.js"
+  ]
+}
